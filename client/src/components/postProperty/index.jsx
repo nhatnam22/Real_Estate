@@ -1,0 +1,5 @@
+export { default as InfomationProperty } from "@/components/postProperty/InfomationProperty"
+export { default as SelectInfo } from "@/components/postProperty/SelectInfo"
+export { default as Upload } from "@/components/postProperty/Upload"
+export { default as ProcessBar } from "@/components/postProperty/ProcessBar"
+export { default as ConfigAndPayment } from "@/components/postProperty/ConfigAndPayment"

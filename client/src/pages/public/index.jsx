@@ -1,0 +1,6 @@
+export {default as News } from "@/pages/public/News"
+export {default as RentProperty } from "@/pages/public/RentProperty"
+export {default as SoldProperty } from "@/pages/public/SoldProperty"
+export {default as Contact } from "@/pages/public/Contact"
+export {default as PublicLayout } from "@/pages/public/PublicLayout"
+export {default as Home } from "@/pages/public/Home"

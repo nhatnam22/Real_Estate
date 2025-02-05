@@ -1,0 +1,1 @@
+export {default as Slide} from "@/components/bannerSlide/Slide"
